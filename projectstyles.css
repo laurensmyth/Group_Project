@@ -3,9 +3,16 @@ body {
   font-family: arial;
   margin: 0px;
 }
+.container{
+  background-image: url('planet.jpg');
+}
 div {
-  min-height: 100vh;
+  min-height: 50vh;
   width: 100vw;
+}
+/* id is # class is . */
+
+
 }
 h1, h2 {
   text-align: center;
