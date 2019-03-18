@@ -2,14 +2,9 @@ body {
   color: black;
   font-family: arial;
   margin: 0px;
+  background-color: "green";
 }
-.container{
-  background-image: url('planet.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
+
 }
 div {
   min-height: 50vh;
